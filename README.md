@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Mehmet Cuci | Profile Banner](banner.png)
 
-<h2>Hello, I'am Mehmet Cuci! 👋</h2>
+<h2>I'am Mehmet Cuci! 👋</h2>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=mehmetcuci.mehmetcuci)](https://github.com/mehmetcuci) [![GitHub followers](https://img.shields.io/github/followers/mehmetcuci.svg?style=social&label=Follow)](https://github.com/mehmetcuci?tab=followers)
 
